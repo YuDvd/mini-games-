@@ -1,0 +1,435 @@
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\TagsGame.exe.config
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\TagsGame.exe
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\TagsGame.pdb
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\CommonServiceLocator.dll
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\ControlzEx.dll
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\MahApps.Metro.dll
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.BootstrapIcons.dll
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.dll
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Codicons.dll
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Coolicons.dll
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.dll
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Entypo.dll
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.dll
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.dll
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.FileIcons.dll
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Fontaudio.dll
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.dll
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Fontisto.dll
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.ForkAwesome.dll
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Ionicons.dll
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.JamIcons.dll
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.dll
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.dll
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Microns.dll
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Modern.dll
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Octicons.dll
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.dll
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.PixelartIcons.dll
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.RadixIcons.dll
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.RemixIcon.dll
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.dll
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.dll
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Typicons.dll
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Unicons.dll
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.VaadinIcons.dll
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.dll
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Zondicons.dll
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\MahApps.Metro.SimpleChildWindow.dll
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\ControlzEx.pdb
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\ControlzEx.xml
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\MahApps.Metro.pdb
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\MahApps.Metro.xml
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.pdb
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.xml
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.BootstrapIcons.pdb
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.BootstrapIcons.xml
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.pdb
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.xml
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Codicons.pdb
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Codicons.xml
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Coolicons.pdb
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Coolicons.xml
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Core.pdb
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Entypo.pdb
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Entypo.xml
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.pdb
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.xml
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.pdb
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.xml
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.FileIcons.pdb
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.FileIcons.xml
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Fontaudio.pdb
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Fontaudio.xml
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.pdb
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.xml
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Fontisto.pdb
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Fontisto.xml
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.ForkAwesome.pdb
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.ForkAwesome.xml
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Ionicons.pdb
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Ionicons.xml
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.JamIcons.pdb
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.JamIcons.xml
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Material.pdb
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.pdb
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.xml
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.pdb
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.xml
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Microns.pdb
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Microns.xml
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Modern.pdb
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Modern.xml
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Octicons.pdb
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Octicons.xml
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.pdb
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.xml
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.PixelartIcons.pdb
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.PixelartIcons.xml
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.RadixIcons.pdb
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.RadixIcons.xml
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.RemixIcon.pdb
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.RemixIcon.xml
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.pdb
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.xml
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.pdb
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.xml
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Typicons.pdb
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Typicons.xml
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Unicons.pdb
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Unicons.xml
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.VaadinIcons.pdb
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.VaadinIcons.xml
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.pdb
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.xml
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Zondicons.pdb
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Zondicons.xml
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\MahApps.Metro.SimpleChildWindow.pdb
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\MahApps.Metro.SimpleChildWindow.xml
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\bin\Debug\de\MahApps.Metro.resources.dll
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\obj\Debug\MiniGames.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\obj\Debug\MiniGames.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\obj\Debug\App.baml
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\obj\Debug\Snake.g.cs
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\obj\Debug\Tag.g.cs
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\obj\Debug\App.g.cs
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\obj\Debug\TagsGame_MarkupCompile.cache
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\obj\Debug\TagsGame_MarkupCompile.lref
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\obj\Debug\Snake.baml
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\obj\Debug\Tag.baml
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\obj\Debug\TagsGame.g.resources
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\obj\Debug\TagsGame.Properties.Resources.resources
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\obj\Debug\MiniGames.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\obj\Debug\MiniGames.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\obj\Debug\MiniGames.csproj.CopyComplete
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\obj\Debug\TagsGame.exe
+C:\Users\user\Desktop\Лаунчер с играми\диплом\TagsGame\obj\Debug\TagsGame.pdb
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\TagsGame.exe.config
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\TagsGame.exe
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\TagsGame.pdb
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\CommonServiceLocator.dll
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\ControlzEx.dll
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.dll
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.BootstrapIcons.dll
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.dll
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Codicons.dll
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Coolicons.dll
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.dll
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Entypo.dll
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.dll
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.dll
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.FileIcons.dll
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Fontaudio.dll
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.dll
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Fontisto.dll
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.ForkAwesome.dll
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Ionicons.dll
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.JamIcons.dll
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.dll
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.dll
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Microns.dll
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Modern.dll
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Octicons.dll
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.dll
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.PixelartIcons.dll
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.RadixIcons.dll
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.RemixIcon.dll
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.dll
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.dll
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Typicons.dll
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Unicons.dll
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.VaadinIcons.dll
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.dll
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Zondicons.dll
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.SimpleChildWindow.dll
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\ControlzEx.pdb
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\ControlzEx.xml
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.pdb
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.xml
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.pdb
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.xml
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.BootstrapIcons.pdb
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.BootstrapIcons.xml
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.pdb
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.xml
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Codicons.pdb
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Codicons.xml
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Coolicons.pdb
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Coolicons.xml
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Core.pdb
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Entypo.pdb
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Entypo.xml
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.pdb
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.xml
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.pdb
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.xml
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.FileIcons.pdb
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.FileIcons.xml
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Fontaudio.pdb
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Fontaudio.xml
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.pdb
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.xml
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Fontisto.pdb
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Fontisto.xml
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.ForkAwesome.pdb
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.ForkAwesome.xml
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Ionicons.pdb
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Ionicons.xml
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.JamIcons.pdb
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.JamIcons.xml
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Material.pdb
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.pdb
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.xml
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.pdb
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.xml
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Microns.pdb
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Microns.xml
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Modern.pdb
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Modern.xml
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Octicons.pdb
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Octicons.xml
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.pdb
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.xml
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.PixelartIcons.pdb
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.PixelartIcons.xml
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.RadixIcons.pdb
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.RadixIcons.xml
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.RemixIcon.pdb
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.RemixIcon.xml
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.pdb
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.xml
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.pdb
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.xml
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Typicons.pdb
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Typicons.xml
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Unicons.pdb
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Unicons.xml
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.VaadinIcons.pdb
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.VaadinIcons.xml
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.pdb
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.xml
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Zondicons.pdb
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Zondicons.xml
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.SimpleChildWindow.pdb
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.SimpleChildWindow.xml
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\de\MahApps.Metro.resources.dll
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\obj\Debug\MiniGames.csproj.AssemblyReference.cache
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\obj\Debug\MiniGames.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\obj\Debug\App.baml
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\obj\Debug\MainWindow.g.cs
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\obj\Debug\Snake.g.cs
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\obj\Debug\Tag.g.cs
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\obj\Debug\App.g.cs
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\obj\Debug\TagsGame_MarkupCompile.cache
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\obj\Debug\TagsGame_MarkupCompile.lref
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\obj\Debug\MainWindow.baml
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\obj\Debug\Snake.baml
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\obj\Debug\Tag.baml
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\obj\Debug\TagsGame.g.resources
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\obj\Debug\TagsGame.Properties.Resources.resources
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\obj\Debug\MiniGames.csproj.GenerateResource.cache
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\obj\Debug\MiniGames.csproj.CoreCompileInputs.cache
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\obj\Debug\MiniGames.csproj.CopyComplete
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\obj\Debug\TagsGame.exe
+C:\Users\Mr_LOIC\Downloads\Telegram Desktop\Лаунчер с играми — копия (2)\Лаунчер с играми — копия (2)\диплом\TagsGame\obj\Debug\TagsGame.pdb
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\TagsGame.exe.config
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\TagsGame.exe
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\TagsGame.pdb
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\CommonServiceLocator.dll
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\ControlzEx.dll
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.dll
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.BootstrapIcons.dll
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.dll
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Codicons.dll
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Coolicons.dll
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.dll
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Entypo.dll
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.dll
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.dll
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.FileIcons.dll
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Fontaudio.dll
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.dll
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Fontisto.dll
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.ForkAwesome.dll
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Ionicons.dll
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.JamIcons.dll
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.dll
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.dll
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Microns.dll
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Modern.dll
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Octicons.dll
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.dll
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.PixelartIcons.dll
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.RadixIcons.dll
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.RemixIcon.dll
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.dll
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.dll
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Typicons.dll
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Unicons.dll
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.VaadinIcons.dll
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.dll
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Zondicons.dll
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.SimpleChildWindow.dll
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\ControlzEx.pdb
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\ControlzEx.xml
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.pdb
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.xml
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.pdb
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.xml
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.BootstrapIcons.pdb
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.BootstrapIcons.xml
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.pdb
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.xml
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Codicons.pdb
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Codicons.xml
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Coolicons.pdb
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Coolicons.xml
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Core.pdb
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Entypo.pdb
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Entypo.xml
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.pdb
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.xml
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.pdb
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.xml
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.FileIcons.pdb
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.FileIcons.xml
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Fontaudio.pdb
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Fontaudio.xml
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.pdb
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.xml
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Fontisto.pdb
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Fontisto.xml
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.ForkAwesome.pdb
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.ForkAwesome.xml
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Ionicons.pdb
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Ionicons.xml
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.JamIcons.pdb
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.JamIcons.xml
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Material.pdb
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.pdb
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.xml
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.pdb
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.xml
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Microns.pdb
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Microns.xml
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Modern.pdb
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Modern.xml
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Octicons.pdb
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Octicons.xml
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.pdb
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.xml
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.PixelartIcons.pdb
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.PixelartIcons.xml
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.RadixIcons.pdb
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.RadixIcons.xml
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.RemixIcon.pdb
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.RemixIcon.xml
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.pdb
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.xml
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.pdb
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.xml
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Typicons.pdb
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Typicons.xml
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Unicons.pdb
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Unicons.xml
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.VaadinIcons.pdb
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.VaadinIcons.xml
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.pdb
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.xml
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Zondicons.pdb
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.IconPacks.Zondicons.xml
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.SimpleChildWindow.pdb
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\MahApps.Metro.SimpleChildWindow.xml
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\bin\Debug\de\MahApps.Metro.resources.dll
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\obj\Debug\MiniGames.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\obj\Debug\MiniGames.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\obj\Debug\App.baml
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\obj\Debug\Snake.g.cs
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\obj\Debug\Tag.g.cs
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\obj\Debug\App.g.cs
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\obj\Debug\TagsGame_MarkupCompile.cache
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\obj\Debug\TagsGame_MarkupCompile.lref
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\obj\Debug\Snake.baml
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\obj\Debug\Tag.baml
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\obj\Debug\TagsGame.g.resources
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\obj\Debug\TagsGame.Properties.Resources.resources
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\obj\Debug\MiniGames.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\obj\Debug\MiniGames.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\obj\Debug\MiniGames.csproj.CopyComplete
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\obj\Debug\TagsGame.exe
+C:\Users\user\Desktop\Новая папка (18)\Лаунчер с играми — копия (2)\диплом\TagsGame\obj\Debug\TagsGame.pdb
